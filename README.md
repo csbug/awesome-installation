@@ -1,3 +1,2 @@
-AWESOME INSTALLATION
-
-A curated list of awesome installation of modern framework and applicaiton
+# AWESOME INSTALLATION
+ A curated list of awesome installation of modern framework and applicaiton
